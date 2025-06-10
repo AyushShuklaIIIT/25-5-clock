@@ -1,12 +1,74 @@
-# React + Vite
+# ⏱️ 25 + 5 Pomodoro Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing and fully functional Pomodoro timer built with React and Tailwind CSS. It follows the classic **25 + 5** Pomodoro technique: 25 minutes of focused work followed by 5 minutes of break.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⏳ Adjustable Session & Break lengths (1–60 mins)
+- ▶️ Start / Stop control
+- 🔁 Auto-switch between Session and Break
+- 📢 Alarm sound on period end
+- 🎨 Background progress fill animation
+- 💡 Clean, modern UI with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Functional Components & Hooks)
+- **Tailwind CSS** for utility-first styling
+- **HTML5 Audio** for alerts
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/25-5-clock.git
+cd 25-5-clock
+npm install
+npm start
+```
+
+The app will be available at `http://localhost:3000`.
+
+---
+
+## 🧪 Usage
+
+- Use the ⬆️ and ⬇️ buttons to adjust **Session** and **Break** times.
+- Press **Start** to begin the timer.
+- The timer will automatically switch between session and break.
+- Press **Reset** to stop the timer and reset to default values (25/5).
+- The background fill shows visual progress for the current interval.
+
+--- 
+
+## 🔔 Customization Ideas
+
+Want to contribute or enhance the project? Here are some ideas:
+
+- Add cycle counter (e.g., "3 Pomodoros complete")
+- Long break after 4 sessions
+- Sound selection menu
+- Dark mode toggle
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgements
+
+Inspired by the Pomodoro Technique and the freeCodeCamp 25 + 5 Clock Challenge.
+
+---
+
+## ✨ Author
+
+Built with 💻 by Ayush Shukla
