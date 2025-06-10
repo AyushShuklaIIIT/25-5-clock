@@ -26,13 +26,11 @@ A visually appealing and fully functional Pomodoro timer built with React and Ta
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/25-5-clock.git
+git clone https://github.com/AyushShuklaIIIT/25-5-clock.git
 cd 25-5-clock
 npm install
-npm start
+npm run dev
 ```
-
-The app will be available at `http://localhost:3000`.
 
 ---
 
