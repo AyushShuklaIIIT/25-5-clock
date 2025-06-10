@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # ⏱️ 25 + 5 Pomodoro Clock
 
 A visually appealing and fully functional Pomodoro timer built with React and Tailwind CSS. It follows the classic **25 + 5** Pomodoro technique: 25 minutes of focused work followed by 5 minutes of break.
@@ -74,4 +72,3 @@ Inspired by the Pomodoro Technique and the freeCodeCamp 25 + 5 Clock Challenge.
 ## ✨ Author
 
 Built with 💻 by Ayush Shukla
->>>>>>> a5ff561d83ce890f5739f98d2459ec745793f1ef
